@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbpuyLq2lg4vtniczaRwApRIQOpwv1lLoE99bkPe97tWpRNZlvZwEZZtil1qimUA0SaafYRtxXOLz0Z644s4BA==",
+  "success": true,
+  "projectFilePath": "D:\\HocC#\\Design\\Design\\Design.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
